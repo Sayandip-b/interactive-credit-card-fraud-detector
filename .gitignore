@@ -1,0 +1,8 @@
+# Ignore the raw dataset
+creditcard.csv
+
+# Ignore local python virtual environments and caches
+__pycache__/
+.streamlit/
+.ipynb_checkpoints/
+*.sys
